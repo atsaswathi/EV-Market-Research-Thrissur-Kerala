@@ -48,7 +48,7 @@ Interactive visualizations were created in Power BI to represent patterns in EV 
 ### 📸 Dashboard Snapshots
 
 ## Analysis on Respondent and Gender Analysis
-![Analysis on Respondent and Gender Analysis](images/respondent_gender_analysis.png)
+![Analysis on Respondent and Gender Analysis](respondent_gender_analysis.png)
 
 ## Analysis on Familiarity, Ownership, and Comfort Rating
 ![Familiarity, Ownership, and Comfort Rating](images/familiarity_ownership_comfort.png)
