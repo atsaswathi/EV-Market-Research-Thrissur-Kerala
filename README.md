@@ -44,6 +44,8 @@ Interactive visualizations were created in Power BI to represent patterns in EV 
 
 ### 📁 Power BI File
 - `Consumer perception study on adoption and marketing of EVs in Thrissur, Kerala..pbix` – Open with Power BI Desktop to explore all dashboards and insights.
+ 📂 Explore the full Power BI project (.pbix): [EV_Adoption_Study_Thrissur.pbix](./EV_Adoption_Study_Thrissur.pbix)
+
 
 ### 📸 Dashboard Snapshots
 
