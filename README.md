@@ -41,11 +41,16 @@ The survey consisted of 20 structured questions focused on awareness, preference
 ## 📊 Power BI Visualizations
 
 Interactive visualizations were created in Power BI to represent patterns in EV awareness, preferences, barriers, and generational behavior.
+## 📊 Power BI Report
 
-### 📁 Power BI File
-- `Consumer perception study on adoption and marketing of EVs in Thrissur, Kerala..pbix` – Open with Power BI Desktop to explore all dashboards and insights.
- 📂 Explore the full Power BI project (.pbix): [EV_Adoption_Study_Thrissur.pbix](./EV_Adoption_Study_Thrissur.pbix)
+🔗 [ElectricVehicle_Adoption_Marketing.pbix](./ElectricVehicle_Adoption_Marketing.pbix)
 
+This Power BI report contains interactive dashboards and consumer insights from my MBA independent project on **Electric Vehicle Adoption & Marketing Strategies in Thrissur, Kerala**.
+
+🛠 Built using Power BI, survey data (150 responses), segmentation analysis, and self-directed DAX/custom visuals.
+
+📌 Author: [Your Name] | MBA Independent Study | 2025  
+🔄 Open this file using **Power BI Desktop** to explore full functionality.
 
 ### 📸 Dashboard Snapshots
 
