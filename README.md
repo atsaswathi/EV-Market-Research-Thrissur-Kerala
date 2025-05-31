@@ -49,7 +49,7 @@ This Power BI report contains interactive dashboards and consumer insights from 
 
 🛠 Built using Power BI, survey data (150 responses), segmentation analysis, and self-directed DAX/custom visuals.
 
-📌 Author: [Your Name] | MBA Independent Study | 2025  
+📌 Author: [Aswathi T S] | MBA Independent Study | 2025  
 🔄 Open this file using **Power BI Desktop** to explore full functionality.
 
 ### 📸 Dashboard Snapshots
