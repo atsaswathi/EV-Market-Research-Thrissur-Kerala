@@ -51,16 +51,16 @@ Interactive visualizations were created in Power BI to represent patterns in EV 
 ![Analysis on Respondent and Gender Analysis](respondent_gender_analysis.png)
 
 ## Analysis on Familiarity, Ownership, and Comfort Rating
-![Familiarity, Ownership, and Comfort Rating](images/familiarity_ownership_comfort.png)
+![Familiarity, Ownership, and Comfort Rating](familiarity_ownership_comfort.png)
 
 ## EV Experience, Adoption Interest, Marketing Effectiveness & Government Incentives
-![EV Experience, Adoption, Marketing & Incentives](images/ev_experience_adoption_marketing_incentives.png)
+![EV Experience, Adoption, Marketing & Incentives](ev_experience_adoption_marketing_incentives.png)
 
 ## EV Features, Brand Association & Recommendation Rates
-![EV Features, Brand Association & Recommendation](images/ev_features_brands_recommendation.png)
+![EV Features, Brand Association & Recommendation](ev_features_brands_recommendation.png)
 
 ## EV Barriers: Charging Availability, Battery Replacement & Service Accessibility
-![EV Barriers: Charging, Battery, and Service](images/ev_barriers_charging_battery_service.png)
+![EV Barriers: Charging, Battery, and Service](ev_barriers_charging_battery_service.png)
 
 
 > 🔁 *Make sure image names and paths match your actual files in the repo.*
