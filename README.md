@@ -54,7 +54,7 @@ Interactive visualizations were created in Power BI to represent patterns in EV 
 ![Experience, Interest in adoption, Marketing effectiveness, government Incentives Analysis Overview](Analysis_on_experience,Interest_in_adoption_for,Marketing_Effectiveness_on,And_Government_Incentives_support_for,Electric_Vehicles.png)
 
 #### Attractive features, Most associated EV Brands, Rate of recommendation of EVs Overview
-![Attractive features, Most associated Brands, Rate of recommendation of EV](Analysis_on_attractive_features_found_in,Most_associated_brands_of,Rate_of_recommendation_of_Electric_Vehicles..png)
+![Attractive features, Most associated Brands, Rate of recommendation of EV](images/ev_features_brands_recommendation.png)
 
 ### Familiarity, Ownership and comfort rating of EVs Overview
 ![Familarity, Ownership, comfort rating](Analysis_on_Biggest_barriers,Charging_Station_availability,Accessibility_of_servicing_and_repair_centers,Replacement_of_battery_being_a_hinderance_for_Electric_Vehicles.png)
