@@ -69,9 +69,6 @@ This Power BI report contains interactive dashboards and consumer insights from 
 ## EV Barriers: Charging Availability, Battery Replacement & Service Accessibility
 ![EV Barriers: Charging, Battery, and Service](ev_barriers_charging_battery_service.png)
 
-
-> 🔁 *Make sure image names and paths match your actual files in the repo.*
-
 ---
 
 ## 🧠 Tools & Skills Demonstrated
@@ -100,6 +97,10 @@ This project reflects end-to-end research capabilities: from survey design and d
 - 🙌 *150 respondents* from Thrissur district – For contributing their valuable time and input
 
 ---
+## 🔗 Extended Project Links
+
+- 📖 Read the detailed project article on **Medium**:  
+  [Understanding EV Adoption Barriers in Thrissur, Kerala](https://lnkd.in/g8VkBqKf)
 
 ## 📘 License
 
