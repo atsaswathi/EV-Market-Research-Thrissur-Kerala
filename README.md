@@ -100,7 +100,7 @@ This project reflects end-to-end research capabilities: from survey design and d
 ## 🔗 Extended Project Links
 
 - 📖 Read the detailed project article on **Medium**:  
-  [Understanding EV Adoption Barriers in Thrissur, Kerala](https://lnkd.in/g8VkBqKf)
+  [Understanding EV Adoption Barriers in Thrissur, Kerala](https://medium.com/@aswathits64/a-market-research-study-on-electric-vehicle-adoption-in-thrissur-kerala-a9fa71f77847)
 
 ## 📘 License
 
