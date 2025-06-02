@@ -13,7 +13,7 @@ The objective of this study was to understand the awareness, perceptions, adopti
 ## 🔍 Research Highlights
 
 - 🧑‍🏫 **Guided by**: *Mrs. Jyothis Racheal Mathews*, Ahalia School of Management, Palakkad
-- 📋 **Primary Research** with **150 responses** via [Google Forms Questionnaire](https://forms.gle/CapZgGTBrhDzDyBN8)
+- 📋 **Primary Research (B2C)** with **150 responses** via [Google Forms Questionnaire](https://forms.gle/CapZgGTBrhDzDyBN8)
 - 📊 **Quantitative data analysis** using **Excel Pivot Tables**
 - 📈 **Power BI dashboards** for interactive visualization & storytelling
 - 📊 **Total Sample analysis v/s younger generation analysis** Whole 150 respondent analysis which all age group v/s age group 18 - 40 respondent analysis.
