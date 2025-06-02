@@ -34,8 +34,8 @@ The survey consisted of 20 structured questions focused on awareness, preference
 - `/PowerBI_Dashboard/`: Power BI `.pbix` file + dashboard screenshots
 - `/Survey_Data/`: Excel file with cleaned survey responses
 - `/Reports/`: Final research report (PDF & DOCX)
-- `/Visualizations/`: (Optional) Exported charts/images if separate from dashboard
-
+- `/Visualizations/`: Exported charts/images if separate from dashboard
+- `/Medium Link/` : Medium link that gives the elborated record of the project
 ---
 
 ## 📊 Power BI Visualizations
