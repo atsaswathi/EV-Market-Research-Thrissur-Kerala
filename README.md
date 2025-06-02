@@ -44,9 +44,7 @@ The survey consisted of 20 structured questions focused on awareness, preference
 Interactive visualizations were created in Power BI to represent patterns in EV awareness, preferences, barriers, and generational behavior.
 ## 📊 Power BI Report
 
-🔗 Report: 
-
-This Power BI report contains interactive dashboards and consumer insights from my MBA independent project on **Electric Vehicle Adoption & Marketing Strategies in Thrissur, Kerala**.
+🔗 This Power BI report contains interactive dashboards and consumer insights from my MBA independent project on **Electric Vehicle Adoption & Marketing Strategies in Thrissur, Kerala**.
 
 🛠 Built using Power BI, survey data (150 responses), segmentation analysis, and self-directed DAX/custom visuals.
 
