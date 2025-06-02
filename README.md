@@ -1,4 +1,4 @@
-# 🚗 Study on Adoption and Marketing strategies of Electric Vehicles (EVs) in Thrissur, Kerala
+# 🚗 Study on Adoption and Marketing strategies of Electric Vehicles (EVs) in Thrissur, Kerala| Market Research| Consumer Insights|
 
 This repository contains the research project I completed as part of my final-year MBA in Marketing, titled **"Study on Adoption and Marketing of Electric Vehicles (EVs) in Thrissur District, Kerala."** The project was conducted under the guidance of **Mrs. Jyothis Racheal Mathews**, Professor at **Ahalia School of Management, Palakkad**.
 
