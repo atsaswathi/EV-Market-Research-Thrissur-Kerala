@@ -72,7 +72,7 @@ Interactive visualizations were created in Power BI to represent patterns in EV 
 [Click here to view the full report](Study_on_Adoption_and_Marketing_of_EVs_in_Thrissur,_Kerala.pdf)
 
 
-[Click here to view/download the full report link](https://drive.google.com/file/d/1nOWNbvflzbE2t83Tlo0lxedbd3xuzLpQ/view?usp=drivesdk)
+[Click here to view/download the full report link](https://drive.google.com/file/d/1nOWNbvfIzbE2t83Tlo0Ixedbd3xuzLpQ/view?usp=drive_link)
 
 ---
 
