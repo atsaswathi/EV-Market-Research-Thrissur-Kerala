@@ -69,7 +69,7 @@ Interactive visualizations were created in Power BI to represent patterns in EV 
 ![EV Barriers: Charging, Battery, and Service](ev_barriers_charging_battery_service.png)
 
 ## 📄 Research Report (PDF)
-[Click here to view/download the full report link](https://drive.google.com/file/d/1nOWNbvfIzbE2t83Tlo0Ixedbd3xuzLpQ/view?usp=drive_link)
+[Click here to view/download the full report link]([](https://drive.google.com/file/d/1e5J9aL0D43aHNV6HY0vMGnYcUcObHdXV/view?usp=drivesdk)
 
 ---
 
