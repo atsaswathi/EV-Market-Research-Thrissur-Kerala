@@ -72,6 +72,9 @@ Interactive visualizations were created in Power BI to represent patterns in EV 
 [Click here to view/download the full report link](https://drive.google.com/file/d/1e5J9aL0D43aHNV6HY0vMGnYcUcObHdXV/view?usp=drivesdk)
 
 ---
+## 💻 UAT
+ UAT plan pdf [Click here to view the pdf document]
+ UAT test cases [click here for the excel UAT test data]
 
 ## 🧠 Tools & Skills Demonstrated
 
